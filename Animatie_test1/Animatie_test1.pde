@@ -3,20 +3,31 @@ import java.io.*;
 File folder;
 JSONArray json;
 
+int iSelectedPos = 0;
 
 void setup(){
+  size(1024,720);
   json = new JSONArray();
-  JSONArray jsonLoaded = loadJSONArray("data\\mlist.json");
-  println(jsonLoaded);
-  selectFolder("Select a musicfolder to add music", "folderSelected");
+  try{
+    JSONArray jsonLoaded = loadJSONArray("data\\mlist.json");
+    json = jsonLoaded;
+    println(jsonLoaded);
+  }catch(Exception ex){
+    println("Failed to load json file");
+    selectFolder("Select a musicfolder to add music", "folderSelected");
+  }
+  
+  drawInit();
+}
+void loop(){
+  
 }
 
 void folderSelected(File selection){
   if (selection == null){
     println("Window was closed or the user hit cancel.");
   } else {
-    folder = new File(dataPath(selection.getAbsolutePath()));
-    
+    folder = new File(dataPath(selection.getAbsolutePath()));  
     
     LoadMp3();
   }
@@ -43,6 +54,9 @@ void LoadMp3(){
      
 }
 
-void loop(){
-
+void drawInit(){
+  
+  
+  //Mask  
+  fill();
 }

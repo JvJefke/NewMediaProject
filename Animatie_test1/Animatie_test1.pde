@@ -20,17 +20,43 @@ ListBox lb;
 Minim minim;
 AudioPlayer ap;
 
+boolean start;
+
 void setup(){
   size(1024,720);  
   json = new JSONArray();
+  start = false;
+  
   try{
     JSONArray jsonLoaded = loadJSONArray("data\\mlist.json");
-    json = jsonLoaded;
-    //println(jsonLoaded);
+    json = jsonLoaded;    
+    println(jsonLoaded);
+    setupAfterFolderSelection();
   }catch(Exception ex){
     println("Failed to load json file");
     selectFolder("Select a musicfolder to add music", "folderSelected");
   }
+  
+}
+
+void draw(){
+  if(start){
+    lb.scroll(0.5);
+    lb.setValue(0.5);
+  }  
+}
+
+void folderSelected(File selection){
+  if (selection == null){
+    println("Window was closed or the user hit cancel.");
+  } else {
+    folder = new File(dataPath(selection.getAbsolutePath()));    
+    LoadMp3();
+    setupAfterFolderSelection();
+  }
+}
+
+void setupAfterFolderSelection(){
   MusicList = ConvertJSONToList(json);
   
   cp5 = new ControlP5(this);
@@ -42,23 +68,9 @@ void setup(){
   drawInit();
   
   minim = new Minim(this);
-  println(MusicList.get(1));
-  ap = minim.loadFile("" + MusicList.get(1));
+  //println(MusicList.get(1));
+  ap = minim.loadFile("" + MusicList.get(iSelectedPos));
   ap.play();
-}
-
-void draw(){
-  lb.scroll(0.5);
-  lb.setValue(0.5);
-}
-
-void folderSelected(File selection){
-  if (selection == null){
-    println("Window was closed or the user hit cancel.");
-  } else {
-    folder = new File(dataPath(selection.getAbsolutePath()));    
-    LoadMp3();
-  }
 }
 
 void LoadMp3(){  
@@ -115,10 +127,29 @@ void keyPressed(){
         iSelectedPos = iSelectedPos + 1;
         lb.scroll(iSelectedPos / MusicList.size());  
       }*/
+      
   if(key == 'p'){
     if(ap.isPlaying())
       ap.pause();
     else
       ap.play();
   }
+  if(key == 'n'){
+    if(iSelectedPos < MusicList.size()){
+      iSelectedPos++;
+      loadNewMusicFile("" + MusicList.get(iSelectedPos));
+    }
+  }
+}
+
+void controlEvent(ControlEvent e){
+  println("Excecuting control command...");
+  iSelectedPos = (int)e.group().value();       
+  loadNewMusicFile("" + MusicList.get(iSelectedPos));
+}
+
+void loadNewMusicFile(String filename){
+  ap.pause();
+  ap = minim.loadFile(filename);
+  ap.play();
 }

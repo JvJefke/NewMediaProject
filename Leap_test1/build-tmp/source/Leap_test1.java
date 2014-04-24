@@ -1,18 +1,50 @@
-import ddf.minim.spi.*;
-import ddf.minim.signals.*;
-import ddf.minim.*;
-import ddf.minim.analysis.*;
-import ddf.minim.ugens.*;
-import ddf.minim.effects.*;
+import processing.core.*; 
+import processing.data.*; 
+import processing.event.*; 
+import processing.opengl.*; 
 
-import controlP5.*;
-import java.io.*;
+import com.onformative.leap.LeapMotionP5; 
+import ddf.minim.spi.*; 
+import ddf.minim.signals.*; 
+import ddf.minim.*; 
+import ddf.minim.analysis.*; 
+import ddf.minim.ugens.*; 
+import ddf.minim.effects.*; 
+import controlP5.*; 
+import java.io.*; 
+
+import com.onformative.leap.*; 
+import com.leapmotion.leap.*; 
+
+import java.util.HashMap; 
+import java.util.ArrayList; 
+import java.io.File; 
+import java.io.BufferedReader; 
+import java.io.PrintWriter; 
+import java.io.InputStream; 
+import java.io.OutputStream; 
+import java.io.IOException; 
+
+public class Leap_test1 extends PApplet {
+
+
+
+
+
+
+
+
+
+
+
+
 
 File folder;
 JSONArray json;
 ArrayList MusicList;
 
 int iSelectedPos;
+float currScroll;
 
 ControlP5 cp5;
 ListBox lb;
@@ -20,12 +52,18 @@ ListBox lb;
 Minim minim;
 AudioPlayer ap;
 
+LeapMotionP5 leap;
+
 boolean start;
 
-void setup(){
-  size(1024,720);  
+public void setup(){
+  size(1024,720);
+
   json = new JSONArray();
   start = false;
+  currScroll = 0;
+  
+  leap = new LeapMotionP5(this);
   
   try{
     JSONArray jsonLoaded = loadJSONArray("data\\mlist.json");
@@ -39,13 +77,37 @@ void setup(){
   
 }
 
-void draw(){
+public void draw(){
   if(start){
-      lb.scroll(float(mouseY) / float(720));
+      //lb.scroll(float(mouseY) / float(720));
+    try{
+      if(leap.getFingerList().size() <= 1){
+        Finger f = leap.getFingerList().get(0);
+
+        PVector snelheid = leap.getVelocity(f);
+        if(snelheid.y > 30 || snelheid.y < -30){
+
+          float speed = snelheid.y / 50000;
+          currScroll = currScroll + speed;
+
+          if(currScroll > 1)
+            currScroll = 1;
+          else if(currScroll < 0)
+            currScroll = 0;
+
+          lb.scroll(currScroll);
+          println("snelheid: " + snelheid);
+        }
+
+        /*
+        PVector currPos = leap.getTip(f);      
+        lb.scroll(currPos.y / 600);*/
+      }
+    }catch(Exception e){}
   }  
 }
 
-void folderSelected(File selection){
+public void folderSelected(File selection){
   if (selection == null){
     println("Window was closed or the user hit cancel.");
   } else {
@@ -55,11 +117,12 @@ void folderSelected(File selection){
   }
 }
 
-void setupAfterFolderSelection(){
+public void setupAfterFolderSelection(){
   MusicList = ConvertJSONToList(json);
   
   cp5 = new ControlP5(this);
-  lb = cp5.addListBox("myList", 20, 100, 900, 200);
+  lb = cp5.addListBox("myList", 40, 100, 900, 500);
+  lb.setItemHeight(95);
   lb.setId(1);
   
   iSelectedPos = 0;
@@ -74,7 +137,7 @@ void setupAfterFolderSelection(){
   start = true;
 }
 
-void LoadMp3(){  
+public void LoadMp3(){  
     java.io.FilenameFilter mp3Filter = new java.io.FilenameFilter() {
         public boolean accept(File dir, String name) {
         return name.toLowerCase().endsWith(".mp3");
@@ -95,14 +158,14 @@ void LoadMp3(){
      
 }
 
-void drawInit(){  
+public void drawInit(){  
   lb.addItems(MusicList);
   lb.isScrollable();
   
   println(lb);  
 }
 
-ArrayList<String> ConvertJSONToList(JSONArray myArr){
+public ArrayList<String> ConvertJSONToList(JSONArray myArr){
   ArrayList<String> arrMusic = new ArrayList<String>();
   
   for(int i = 0; i < myArr.size(); i++)
@@ -113,7 +176,7 @@ ArrayList<String> ConvertJSONToList(JSONArray myArr){
   return arrMusic;
 }
 
-void keyPressed(){
+public void keyPressed(){
   //println(key);
   println(keyCode);
   /*if(keyCode == UP)
@@ -149,14 +212,23 @@ void keyPressed(){
   }
 }
 
-void controlEvent(ControlEvent e){
+public void controlEvent(ControlEvent e){
   println("Excecuting control command...");
   iSelectedPos = (int)e.group().value();       
   loadNewMusicFile("" + MusicList.get(iSelectedPos));
 }
 
-void loadNewMusicFile(String filename){
+public void loadNewMusicFile(String filename){
   ap.pause();
   ap = minim.loadFile(filename);
   ap.play();
+}
+  static public void main(String[] passedArgs) {
+    String[] appletArgs = new String[] { "Leap_test1" };
+    if (passedArgs != null) {
+      PApplet.main(concat(appletArgs, passedArgs));
+    } else {
+      PApplet.main(appletArgs);
+    }
+  }
 }

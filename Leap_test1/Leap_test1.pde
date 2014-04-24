@@ -1,3 +1,5 @@
+import com.onformative.leap.LeapMotionP5;
+
 import ddf.minim.spi.*;
 import ddf.minim.signals.*;
 import ddf.minim.*;
@@ -13,6 +15,7 @@ JSONArray json;
 ArrayList MusicList;
 
 int iSelectedPos;
+float currScroll;
 
 ControlP5 cp5;
 ListBox lb;
@@ -20,12 +23,18 @@ ListBox lb;
 Minim minim;
 AudioPlayer ap;
 
+LeapMotionP5 leap;
+
 boolean start;
 
 void setup(){
-  size(1024,720);  
+  size(1024,720);
+
   json = new JSONArray();
   start = false;
+  currScroll = 0;
+  
+  leap = new LeapMotionP5(this);
   
   try{
     JSONArray jsonLoaded = loadJSONArray("data\\mlist.json");
@@ -41,7 +50,31 @@ void setup(){
 
 void draw(){
   if(start){
-      lb.scroll(float(mouseY) / float(720));
+      //lb.scroll(float(mouseY) / float(720));
+    try{
+      if(leap.getFingerList().size() <= 1){
+        Finger f = leap.getFingerList().get(0);
+
+        PVector snelheid = leap.getVelocity(f);
+        if(snelheid.y > 30 || snelheid.y < -30){
+
+          float speed = snelheid.y / 50000;
+          currScroll = currScroll + speed;
+
+          if(currScroll > 1)
+            currScroll = 1;
+          else if(currScroll < 0)
+            currScroll = 0;
+
+          lb.scroll(currScroll);
+          println("snelheid: " + snelheid);
+        }
+
+        /*
+        PVector currPos = leap.getTip(f);      
+        lb.scroll(currPos.y / 600);*/
+      }
+    }catch(Exception e){}
   }  
 }
 
@@ -59,7 +92,8 @@ void setupAfterFolderSelection(){
   MusicList = ConvertJSONToList(json);
   
   cp5 = new ControlP5(this);
-  lb = cp5.addListBox("myList", 20, 100, 900, 200);
+  lb = cp5.addListBox("myList", 40, 100, 900, 500);
+  lb.setItemHeight(95);
   lb.setId(1);
   
   iSelectedPos = 0;

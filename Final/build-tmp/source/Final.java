@@ -55,7 +55,7 @@ AudioPlayer ap;
 LeapMotionP5 leap;
 
 boolean start;
-
+boolean isPaused;
 
 public void setup(){
 	size(1024,720);
@@ -65,7 +65,20 @@ public void setup(){
 }
 
 public void draw(){
+  background(255);
+  
 	if(start){
+
+    if(isPaused){
+      drawPaused();
+    }      
+    else if(!isPaused){
+      if(!ap.isPlaying())
+          playNext();
+
+      drawPlaying();      
+    }
+
 		evaluateLeapMovement();
 	}
 }
@@ -147,6 +160,7 @@ public void LoadMp3(){
   {
     JSONObject temp = new JSONObject();
     temp.setString("Filename", folder.getAbsolutePath() + "\\" + filenames[i]);
+    temp.setString("Titel", filenames[i]);
     json.setJSONObject(i, temp);
   }
   
@@ -179,26 +193,38 @@ public void loadNewMusicFile(String filename){
   ap.play();
 }
 
+public void playNext(){
+  if(iSelectedPos < MusicList.size()){
+    iSelectedPos++;
+    loadNewMusicFile("" + MusicList.get(iSelectedPos));
+  }
+}
+
+public void playPrev(){
+  if(iSelectedPos > 0){
+    iSelectedPos--;
+    loadNewMusicFile("" + MusicList.get(iSelectedPos));
+  }
+}
+
 // --- Input-functions ---
 
 public void keyPressed(){
   if(key == 'p'){
-    if(ap.isPlaying())
+    if(ap.isPlaying()){
       ap.pause();
-    else
+      isPaused = true;
+    }
+    else{
       ap.play();
-  }
-  if(key == 'd'){
-    if(iSelectedPos < MusicList.size()){
-      iSelectedPos++;
-      loadNewMusicFile("" + MusicList.get(iSelectedPos));
+      isPaused = false;
     }
   }
-  if(key == 'q'){
-    if(iSelectedPos > 0){
-       iSelectedPos--;
-       loadNewMusicFile("" + MusicList.get(iSelectedPos));
-    }
+  if(key == 'd'){    
+    playNext();    
+  }
+  if(key == 'q'){    
+    playPrev();    
   }
 }
 
@@ -227,6 +253,16 @@ public void evaluateLeapMovement(){
         lb.scroll(currPos.y / 600);*/
       }
     }catch(Exception e){}
+}
+
+// --- Draw-functions ---
+public void drawPlaying(){
+  triangle(500, 650, 500, 700, 525, 675);
+}
+
+public void drawPaused(){
+  rect(500, 650, 10, 50);
+  rect(515, 650, 10, 50);
 }
   static public void main(String[] passedArgs) {
     String[] appletArgs = new String[] { "Final" };

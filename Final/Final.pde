@@ -26,7 +26,7 @@ AudioPlayer ap;
 LeapMotionP5 leap;
 
 boolean start;
-
+boolean isPaused;
 
 void setup(){
 	size(1024,720);
@@ -36,7 +36,20 @@ void setup(){
 }
 
 void draw(){
+  background(255);
+  
 	if(start){
+
+    if(isPaused){
+      drawPaused();
+    }      
+    else if(!isPaused){
+      if(!ap.isPlaying())
+          playNext();
+
+      drawPlaying();      
+    }
+
 		evaluateLeapMovement();
 	}
 }
@@ -118,6 +131,7 @@ void LoadMp3(){
   {
     JSONObject temp = new JSONObject();
     temp.setString("Filename", folder.getAbsolutePath() + "\\" + filenames[i]);
+    temp.setString("Titel", filenames[i]);
     json.setJSONObject(i, temp);
   }
   
@@ -150,26 +164,38 @@ void loadNewMusicFile(String filename){
   ap.play();
 }
 
+void playNext(){
+  if(iSelectedPos < MusicList.size()){
+    iSelectedPos++;
+    loadNewMusicFile("" + MusicList.get(iSelectedPos));
+  }
+}
+
+void playPrev(){
+  if(iSelectedPos > 0){
+    iSelectedPos--;
+    loadNewMusicFile("" + MusicList.get(iSelectedPos));
+  }
+}
+
 // --- Input-functions ---
 
 void keyPressed(){
   if(key == 'p'){
-    if(ap.isPlaying())
+    if(ap.isPlaying()){
       ap.pause();
-    else
+      isPaused = true;
+    }
+    else{
       ap.play();
-  }
-  if(key == 'd'){
-    if(iSelectedPos < MusicList.size()){
-      iSelectedPos++;
-      loadNewMusicFile("" + MusicList.get(iSelectedPos));
+      isPaused = false;
     }
   }
-  if(key == 'q'){
-    if(iSelectedPos > 0){
-       iSelectedPos--;
-       loadNewMusicFile("" + MusicList.get(iSelectedPos));
-    }
+  if(key == 'd'){    
+    playNext();    
+  }
+  if(key == 'q'){    
+    playPrev();    
   }
 }
 
@@ -198,4 +224,14 @@ void evaluateLeapMovement(){
         lb.scroll(currPos.y / 600);*/
       }
     }catch(Exception e){}
+}
+
+// --- Draw-functions ---
+void drawPlaying(){
+  triangle(500, 650, 500, 700, 525, 675);
+}
+
+void drawPaused(){
+  rect(500, 650, 10, 50);
+  rect(515, 650, 10, 50);
 }

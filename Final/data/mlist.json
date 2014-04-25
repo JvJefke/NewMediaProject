@@ -1,248 +1,986 @@
 [
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\3LAU - E.T. Youth Take Shots.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\3LAU - How You Love Me feat. Bright Lights [Official Lyric Video].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\3LAU, Paris & Simo feat. Bright Lights - Escape (Culture Code Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Above & Beyond - On My Way To Heaven (Seven Lions Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Above & Beyond - Thing Called Love (Paris Blohm Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club - Do I See Color (Big Gigantic Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club - Need Your Heart ft. Kai (Crywolf YOLO Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club ft. Kai - Need Your Heart (Minnesota Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club ft. The Kite String Tangle - Wonder (Friendzone Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club ft. Yuna - Gold.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Alexisonfire - To A Friend (Adventure Club Remix) [Free Download].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Alphaville - Forever Young (Steve Forte Rio Remix) Tiesto's Club Life.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Animal Kingdom - Strange Attractor (Dzeko & Torres Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Anita Ward - Ring My Bell (Kill Paris Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Apollo Brown - Statistics.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Archie & Fareoh - Feathers (Original Mix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Archie - Kingdom (Club Mix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like (Audien Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Arty - Flashback [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Au5 & Collin McLoughlin - Tendril [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Audien feat. Ruby Prophet - Circles.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Autoerotique - Asphyxiation [Dim Mak].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Avicii - Hey Brother (Syn Cole Remix) [Radio Edit].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Bastille - Pompeii (Audien Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Bastille x Audien - Pompeiicible (Tom Swoon 70K Mashup).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Bel Heir - Kiss The Devil (Just A Gent Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Benny Benassi - Back To The Pump.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Black Tiger Sex Machine - Destroy It (Urban Contact Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Blakeee - If I Had A Milli.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Blakeee - Warp Is King.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Brenton Mattheus - Overcome (SirensCeol Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Calvin Harris ft. Example - We'll Be Coming Back (Exige Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash - Hideaway.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash - Overtime.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash ft. Bebe Rexha - Take Me Home (The Chainsmokers Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash ft. Bebe Rexha - Take Me Home [Protocol Radio].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cazzette - Beam Me Up (Kill Mode) [Spotify Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cazzette - Weapon (Vicetone Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Chris Lake & Lazy Rich - Stand Alone.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Christina Perri - Jar of Hearts (Dash Berlin Bootleg).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\CIRC - Fire Cut.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Claire - Next Ones To Come (Virtual Riot Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Collin McLoughlin - Is It Love (Prod. Sex Ray Vision).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Comic Strips - Thrill Ride.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Culture Code & SirensCeol - Code of the Siren (Original Mix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Culture Code ft. Alexa Ayaz - Slow Burn (Original Mix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dada Life - Feed The Dada (Dice Motion Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\DallasK vs. Calvin Harris & Ellie Goulding, Nicky Romero - I Need Your Alienz (Kastra Bootleg).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Darius - Maliblue [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Daughter - Medicine (Sound Remedy Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Daughter - Medicine (The Chainsmokers Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dead C.A.T Bounce ft. Emily Underhill - Nothing to Say (Alex S. Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Delerium - Days Turn Into Nights (Seven Lions Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dev ft Fabolous - Kiss My Lips (DJ Kue Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dillon Francis & DJ Snake - Get Low.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dirty South - Until The End ft. Joe Gil.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Disclosure - You & Me (Flume Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\DJ Assass1n - Frag Out.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Doctor P feat. Eva Simons - Bulletproof (Vicetone Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Doctor P ft. Eva Simons - Bulletproof (Case & Point Bootleg_Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dzeko & Torres - 2012.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Electric Joy Ride & Frankk Loony ft. Iain Mannix - Forever [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Electromagnetic Blaze - Discovery [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Eminence & RedMoon - Changes (feat. Holly Drummond).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Empire Of The Sun & Hook N Sling - Celebrate (Hook N Sling Remix) [Premiere].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Excision & Datsik - Deviance (Dirtyphonics Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Exige - Proximity Launchpad Mashup (60  Song Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\F.O.O.L - Feelings (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Far Too Loud - 600 Years.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Fareoh - Pandora [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Fareoh - Run Away.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Fedde Le Grand & Nicky Romero ft. Matthew Koma - Sparks (Vicetone Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Foxes - Echo (FIXYN Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Foxes - Youth (Adventure Club Dubstep Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\FUKKK OFFF - Remix is King.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Graffiti 6 - Annie You Save Me (Reset! Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Gramatik - So Much For Love.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Grouplove - Tongue Tied (Gigamesh Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Gwen Stefani - What You Waiting For (Lets Be Friends Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Hellberg, Teqq & Taylr Renee - Air.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Henrix & Jakob Liedholm Ft. Zashanell - Close Your Eyes.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Hook N Sling & Nervo - Reason (Vicetone Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Imagine Dragons - Demons (Dzeko & Torres Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Imagine Dragons - Radioactive (Synchronice Remix) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\J.A.C.K - Living I.P.O.D [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\James Egbert - Exit Wounds Feat. Nina Sung (Cappa Regime Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Janski Beeeats - Grandavia.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Jaymes Young - Dark Star (Milkman Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\JJ - Still.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\John Newman - Losing Sleep (Kat Krazy Remix) [Exclusive Premiere].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Jonsi - Around Us (The Chainsmokers Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Juju - The Moonlight.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Jungle Fiction - Transhuman (F.O.O.L. Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Justice vs. Simian - We Are Your Friends (Chrizz Luvly Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Karetus ft. Ricco Vitali - Future Is Now [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Karluv Klub & Kai Wachi - Twice (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Karra - Dream Catcher (Massive Vibes Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kaskade & Project 46 - Last Chance (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kaskade vs. SparkFreks & Relentless vs. Farleon - Apollo On My Shoulder (Kastra Bootleg).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kaskade VS. Steve Aoki & Tommy Trash - Be Still Ladi Dadi Be Still Ladi Dadi.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kat Krazy ft. Elkka - Siren.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\KDREW - Bullseye.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kerry Wheeler Feat. Ashton Palmer - Paint My Heart.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kerry Wheeler ft. Ashton Palmer - Odyssey.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kevin Drew ft. Taryn Manning - Summer Ashes (Culture Code Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill Paris - I Do Love You [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill Paris - Keep Your Secrets in Midnight City [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill Paris - Shades of Funk [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill The Noise & Brillz feat. Minxx - Saturn (Kill Paris Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kodaline - Love Like This (Fix8 Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Alive (Cash Cash x Kalkutta Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Come And Get It (Razihel Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Enjoy The Ride (Vicetone Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Enjoy The Ride [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Human.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Live For The Night (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - We Go Down [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Laidback Luke & Project 46 ft. Collin McLoughlin - Collide [Radio Edit].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Late Night Alumni - Shine (Fareoh's One Hitter Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lazy Rich & Special Features - Beginning Of The World [Radio Edit].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Appreciate (Uppermost Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Coffee Table [Full].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Continuum.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Excuse Me.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Fiction [Relativity 3].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Keep Close.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Sceptics (Club Mix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Splitting Colors.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - The End.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Time To Realize.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lets Be Friends - Manslaughter (VIP Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\London Grammar - Hey Now (Arty Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Loreen - Euphoria (Tiger & Wolf Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\LTR - Idealism.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mako - Beam (Mako Orchestral Remix) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mako - Beam (Original) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mako - Our Story [Free] (Exclusive Premiere).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Manufactured Superstars ft. Danni Rouge - Like Satellites [Radio Edit].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Manufactured Superstars ft. Jarvis Church - Stay [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Martin Solveig & The Cataracs - Hey Now (feat. Kyle) (Pierce Fulton Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mat Zo & Porter Robinson - Easy (Lemaitre Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Matisyahu - Live Like A Warrior (Richello Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Matthew Koma - One Night (Vicetone Remix) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Matthew Koma - Parachute (Kat Krazy Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Maurizio Inzaghi & Fine Touch ft. Jonny Rose - We Gotta Rage (Nick Bounce Remode).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mike Candys - One Night In Ibiza (Chrizz Luvly Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mikky Ekko - Kids (The Chainsmokers Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Milkman - Revelry.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Misterwives - Reflections (Milkman Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Moiez ft. Anoop Desai - City On A Hill.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Moiez vs Daphne & Project 46 - Crime (3LAU Mix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Monsta - Where Did I Go (Dillon Francis and Kill Paris Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Morgan Page vs. Nima Nesta - Derby Fight (Morgan Page Bootleg Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mutrix ft. Charity Vance - Come Alive (The Two Friends Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nervo & Hook N' Sling - Reason (Cash Cash & The Jane Doze Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nervo - Hold On (Vicetone Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Ness - Mexican (Janski Beeeats Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Neutralize ft. Emily Underhill - Shining Through The Light (Culture Code Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nicky Romero & Krewella - Legacy (Save My Life) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nikki Williams - Glowing (Cazzette Remix) [Radio Edit].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Oliver - Dirty Talk.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Olly Murs - Army of Two (Kat Krazy Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Osen & Baha - The Warrior (Lush & Simon Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\OVERWERK - 12_30 [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Overwerk - Contact.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\OVERWERK - Daybreak (GoPro HERO3 Edit) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\OVERWERK - Night Shift [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paramore - Still Into You (Synchronice Remix) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paris Blohm & Mako ft. Angel Taylor - You Were Here [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paris Blohm ft. Angel Taylor - Presence [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paris Blohm ft. Matt Morris - Miracle [Free] (Proximity Release).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pegboard Nerds - Bassline Kickin' (Dzeko & Torres Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pegboard Nerds x Misterwives - Coffins [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pendulum - Fasten Your Seatbelt (PrototypeRaptor Bootleg Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pierce Fulton ft. Polina - Where We Were (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Project 46 ft. Seri - Motionless (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Adrenaline Mixtape [Free Download].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Guy gets Pandoric Tattoo!.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Holiday Mixtape [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Justice Live @ Ultra Music Festival, Miami 2012.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Pandoric Music Pack #2.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Purity Ring - Obedear (Chrome Wolves Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Reeves Raymond ft. Alex Staltari & Diana - Brighter Lights (Culture Code Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Rudimental - Feel The Love (Kill Paris Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\RUFUS - Paris Collides.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Sander Van Doorn & Julian Jordan - Kangaroo (Vitez & Kiso Vocal Edit).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Scooter & Lavelle Ft. Sue Cho - Beats Inside My Head (Revolvr VIP Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Seven Lions - Days To Come (Affinity Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Seven Lions ft. Minnesota & Mimi Page - Fevers [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Singularity feat. Jenn Lucas - Rift (Electromagnetic Blaze Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Special Features - You And Me [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Specimen A - London.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Static Revenger feat. Dev - Turn The World On (TheFatRat Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Stellamara - Prituri Se Planinata (NiT GriT Remix) [Step Up 4].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Supermode Vs. Adrian Lux, Axwell & Henrik B - Tell Me Crime (Adrien Mezsi Bootleg).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Swedish House Mafia x Knife Party - Who We Antidote (Inducers Mashup).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Syn Cole - Miami 82 (Avicii Edit).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Aston Shuffle - Can't Stop Now (Special Features Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Aston Shuffle vs. Tommy Trash - Sunrise (Won't Get Lost) (Tommy Trash Version).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Chainsmokers vs. Tove Lo - Habits [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Crystal Method - Over It [Free] (Preview).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Good Natured - 5-HT (Kat Krazy Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Neighbourhood - Sweater Weather  (Shaun Frank Club Cover).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The S.O.S Band - Take Your Time (Do It Right) (Solidisco Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Two Friends ft. Jeff Sontag & I Am Lightyear - Brighter [Free] (Exclusive).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Two Friends ft. Jeff Sontag - Sedated (Barely Alive Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Throttle - Inspire (Launchpad Mashup) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Till Death - The Dark Woods [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tisoki & Skoshki - Only You [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tom Swoon & Paris Blohm - Synchronize ft. Hadouken! [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tom Swoon, Lush & Simon - Ahead Of Us [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tommy Trash vs Pnau vs MGMT - Unite Kids (Tommy Trash Private Bootleg).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tritonal & Paris Blohm ft. Sterling Fox - Colors.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tritonal - Still With Me Feat. Cristina Soto (Seven Lions Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tritonal feat. Phoebe Ryan - Now Or Never (Estiva & Juventa Remix) [Exclusive].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Two Door Cinema Club - What You Know (Religion Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Uppermost - Born Limitless.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Uppermost - Crossfader [FREE].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Uppermost - Futur.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Van She - Idea of Happiness (Robotaki Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Velvetine - The Great Divide (Seven Lions Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone - End of New Years Mix 2013 [EDM].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone - Heartbeat (Cash Cash Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone - Hope (Instrumental) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone ft. Chloe Angelides - White Lies.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone ft. Daniel Gidlund - Chasing Time.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone Ft. Jonny Rose - Stars (Original Mix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone vs. Popeska - The New Kings Ft. Luciana [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Virtual Riot - Idols (EDM Mashup).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Virtual Riot feat. Lisa Rowe - In Your Hands.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Visitor - Coming Home (Viceroy Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Will Sparks - Catch [Radio Edit].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - Anthology (Madeon Mashup).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - Flexx (Exige Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - Shrunken Heads.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - There And Back (Dead C_T Bounce Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner ft. Medina - Overdose.mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\You Killing Me - Can't Stop (F.O.O.L Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Youngblood Hawke - We Come Running (Milkman Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Youngblood Hawke - We Come Running (Vicetone Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zara Larsson - Uncover (Jarleen & Sebros Bootleg).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zedd - Spectrum (Muscle Hawk Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zedd - Spectrum (The Lonely Astronaut Remix).mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zedd ft. Foxes - Clarity (Vicetone Remix) [Free].mp3"},
-  {"Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\ZHU - Faded.mp3"}
+  {
+    "Titel": "3LAU - E.T. Youth Take Shots.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\3LAU - E.T. Youth Take Shots.mp3"
+  },
+  {
+    "Titel": "3LAU - How You Love Me feat. Bright Lights [Official Lyric Video].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\3LAU - How You Love Me feat. Bright Lights [Official Lyric Video].mp3"
+  },
+  {
+    "Titel": "3LAU, Paris & Simo feat. Bright Lights - Escape (Culture Code Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\3LAU, Paris & Simo feat. Bright Lights - Escape (Culture Code Remix).mp3"
+  },
+  {
+    "Titel": "Above & Beyond - On My Way To Heaven (Seven Lions Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Above & Beyond - On My Way To Heaven (Seven Lions Remix).mp3"
+  },
+  {
+    "Titel": "Above & Beyond - Thing Called Love (Paris Blohm Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Above & Beyond - Thing Called Love (Paris Blohm Remix).mp3"
+  },
+  {
+    "Titel": "Adventure Club - Do I See Color (Big Gigantic Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club - Do I See Color (Big Gigantic Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Adventure Club - Need Your Heart ft. Kai (Crywolf YOLO Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club - Need Your Heart ft. Kai (Crywolf YOLO Remix).mp3"
+  },
+  {
+    "Titel": "Adventure Club ft. Kai - Need Your Heart (Minnesota Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club ft. Kai - Need Your Heart (Minnesota Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Adventure Club ft. The Kite String Tangle - Wonder (Friendzone Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club ft. The Kite String Tangle - Wonder (Friendzone Remix).mp3"
+  },
+  {
+    "Titel": "Adventure Club ft. Yuna - Gold.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Adventure Club ft. Yuna - Gold.mp3"
+  },
+  {
+    "Titel": "Alexisonfire - To A Friend (Adventure Club Remix) [Free Download].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Alexisonfire - To A Friend (Adventure Club Remix) [Free Download].mp3"
+  },
+  {
+    "Titel": "Alphaville - Forever Young (Steve Forte Rio Remix) Tiesto's Club Life.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Alphaville - Forever Young (Steve Forte Rio Remix) Tiesto's Club Life.mp3"
+  },
+  {
+    "Titel": "Animal Kingdom - Strange Attractor (Dzeko & Torres Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Animal Kingdom - Strange Attractor (Dzeko & Torres Remix).mp3"
+  },
+  {
+    "Titel": "Anita Ward - Ring My Bell (Kill Paris Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Anita Ward - Ring My Bell (Kill Paris Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Apollo Brown - Statistics.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Apollo Brown - Statistics.mp3"
+  },
+  {
+    "Titel": "Archie & Fareoh - Feathers (Original Mix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Archie & Fareoh - Feathers (Original Mix) [Free].mp3"
+  },
+  {
+    "Titel": "Archie - Kingdom (Club Mix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Archie - Kingdom (Club Mix) [Free].mp3"
+  },
+  {
+    "Titel": "Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like (Audien Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like (Audien Remix).mp3"
+  },
+  {
+    "Titel": "Arty - Flashback [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Arty - Flashback [Exclusive].mp3"
+  },
+  {
+    "Titel": "Au5 & Collin McLoughlin - Tendril [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Au5 & Collin McLoughlin - Tendril [Free].mp3"
+  },
+  {
+    "Titel": "Audien feat. Ruby Prophet - Circles.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Audien feat. Ruby Prophet - Circles.mp3"
+  },
+  {
+    "Titel": "Autoerotique - Asphyxiation [Dim Mak].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Autoerotique - Asphyxiation [Dim Mak].mp3"
+  },
+  {
+    "Titel": "Avicii - Hey Brother (Syn Cole Remix) [Radio Edit].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Avicii - Hey Brother (Syn Cole Remix) [Radio Edit].mp3"
+  },
+  {
+    "Titel": "Bastille - Pompeii (Audien Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Bastille - Pompeii (Audien Remix).mp3"
+  },
+  {
+    "Titel": "Bastille x Audien - Pompeiicible (Tom Swoon 70K Mashup).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Bastille x Audien - Pompeiicible (Tom Swoon 70K Mashup).mp3"
+  },
+  {
+    "Titel": "Bel Heir - Kiss The Devil (Just A Gent Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Bel Heir - Kiss The Devil (Just A Gent Remix).mp3"
+  },
+  {
+    "Titel": "Benny Benassi - Back To The Pump.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Benny Benassi - Back To The Pump.mp3"
+  },
+  {
+    "Titel": "Black Tiger Sex Machine - Destroy It (Urban Contact Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Black Tiger Sex Machine - Destroy It (Urban Contact Remix).mp3"
+  },
+  {
+    "Titel": "Blakeee - If I Had A Milli.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Blakeee - If I Had A Milli.mp3"
+  },
+  {
+    "Titel": "Blakeee - Warp Is King.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Blakeee - Warp Is King.mp3"
+  },
+  {
+    "Titel": "Brenton Mattheus - Overcome (SirensCeol Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Brenton Mattheus - Overcome (SirensCeol Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Calvin Harris ft. Example - We'll Be Coming Back (Exige Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Calvin Harris ft. Example - We'll Be Coming Back (Exige Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Cash Cash - Hideaway.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash - Hideaway.mp3"
+  },
+  {
+    "Titel": "Cash Cash - Overtime.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash - Overtime.mp3"
+  },
+  {
+    "Titel": "Cash Cash ft. Bebe Rexha - Take Me Home (The Chainsmokers Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash ft. Bebe Rexha - Take Me Home (The Chainsmokers Remix).mp3"
+  },
+  {
+    "Titel": "Cash Cash ft. Bebe Rexha - Take Me Home [Protocol Radio].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cash Cash ft. Bebe Rexha - Take Me Home [Protocol Radio].mp3"
+  },
+  {
+    "Titel": "Cazzette - Beam Me Up (Kill Mode) [Spotify Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cazzette - Beam Me Up (Kill Mode) [Spotify Exclusive].mp3"
+  },
+  {
+    "Titel": "Cazzette - Weapon (Vicetone Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Cazzette - Weapon (Vicetone Remix).mp3"
+  },
+  {
+    "Titel": "Chris Lake & Lazy Rich - Stand Alone.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Chris Lake & Lazy Rich - Stand Alone.mp3"
+  },
+  {
+    "Titel": "Christina Perri - Jar of Hearts (Dash Berlin Bootleg).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Christina Perri - Jar of Hearts (Dash Berlin Bootleg).mp3"
+  },
+  {
+    "Titel": "CIRC - Fire Cut.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\CIRC - Fire Cut.mp3"
+  },
+  {
+    "Titel": "Claire - Next Ones To Come (Virtual Riot Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Claire - Next Ones To Come (Virtual Riot Remix).mp3"
+  },
+  {
+    "Titel": "Collin McLoughlin - Is It Love (Prod. Sex Ray Vision).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Collin McLoughlin - Is It Love (Prod. Sex Ray Vision).mp3"
+  },
+  {
+    "Titel": "Comic Strips - Thrill Ride.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Comic Strips - Thrill Ride.mp3"
+  },
+  {
+    "Titel": "Culture Code & SirensCeol - Code of the Siren (Original Mix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Culture Code & SirensCeol - Code of the Siren (Original Mix) [Free].mp3"
+  },
+  {
+    "Titel": "Culture Code ft. Alexa Ayaz - Slow Burn (Original Mix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Culture Code ft. Alexa Ayaz - Slow Burn (Original Mix) [Free].mp3"
+  },
+  {
+    "Titel": "Dada Life - Feed The Dada (Dice Motion Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dada Life - Feed The Dada (Dice Motion Remix).mp3"
+  },
+  {
+    "Titel": "DallasK vs. Calvin Harris & Ellie Goulding, Nicky Romero - I Need Your Alienz (Kastra Bootleg).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\DallasK vs. Calvin Harris & Ellie Goulding, Nicky Romero - I Need Your Alienz (Kastra Bootleg).mp3"
+  },
+  {
+    "Titel": "Darius - Maliblue [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Darius - Maliblue [Free].mp3"
+  },
+  {
+    "Titel": "Daughter - Medicine (Sound Remedy Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Daughter - Medicine (Sound Remedy Remix).mp3"
+  },
+  {
+    "Titel": "Daughter - Medicine (The Chainsmokers Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Daughter - Medicine (The Chainsmokers Remix).mp3"
+  },
+  {
+    "Titel": "Dead C.A.T Bounce ft. Emily Underhill - Nothing to Say (Alex S. Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dead C.A.T Bounce ft. Emily Underhill - Nothing to Say (Alex S. Remix).mp3"
+  },
+  {
+    "Titel": "Delerium - Days Turn Into Nights (Seven Lions Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Delerium - Days Turn Into Nights (Seven Lions Remix).mp3"
+  },
+  {
+    "Titel": "Dev ft Fabolous - Kiss My Lips (DJ Kue Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dev ft Fabolous - Kiss My Lips (DJ Kue Remix).mp3"
+  },
+  {
+    "Titel": "Dillon Francis & DJ Snake - Get Low.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dillon Francis & DJ Snake - Get Low.mp3"
+  },
+  {
+    "Titel": "Dirty South - Until The End ft. Joe Gil.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dirty South - Until The End ft. Joe Gil.mp3"
+  },
+  {
+    "Titel": "Disclosure - You & Me (Flume Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Disclosure - You & Me (Flume Remix).mp3"
+  },
+  {
+    "Titel": "DJ Assass1n - Frag Out.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\DJ Assass1n - Frag Out.mp3"
+  },
+  {
+    "Titel": "Doctor P feat. Eva Simons - Bulletproof (Vicetone Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Doctor P feat. Eva Simons - Bulletproof (Vicetone Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Doctor P ft. Eva Simons - Bulletproof (Case & Point Bootleg_Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Doctor P ft. Eva Simons - Bulletproof (Case & Point Bootleg_Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Dzeko & Torres - 2012.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Dzeko & Torres - 2012.mp3"
+  },
+  {
+    "Titel": "Electric Joy Ride & Frankk Loony ft. Iain Mannix - Forever [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Electric Joy Ride & Frankk Loony ft. Iain Mannix - Forever [Free].mp3"
+  },
+  {
+    "Titel": "Electromagnetic Blaze - Discovery [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Electromagnetic Blaze - Discovery [Free].mp3"
+  },
+  {
+    "Titel": "Eminence & RedMoon - Changes (feat. Holly Drummond).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Eminence & RedMoon - Changes (feat. Holly Drummond).mp3"
+  },
+  {
+    "Titel": "Empire Of The Sun & Hook N Sling - Celebrate (Hook N Sling Remix) [Premiere].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Empire Of The Sun & Hook N Sling - Celebrate (Hook N Sling Remix) [Premiere].mp3"
+  },
+  {
+    "Titel": "Excision & Datsik - Deviance (Dirtyphonics Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Excision & Datsik - Deviance (Dirtyphonics Remix).mp3"
+  },
+  {
+    "Titel": "Exige - Proximity Launchpad Mashup (60  Song Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Exige - Proximity Launchpad Mashup (60  Song Mix).mp3"
+  },
+  {
+    "Titel": "F.O.O.L - Feelings (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\F.O.O.L - Feelings (Original Mix).mp3"
+  },
+  {
+    "Titel": "Far Too Loud - 600 Years.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Far Too Loud - 600 Years.mp3"
+  },
+  {
+    "Titel": "Fareoh - Pandora [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Fareoh - Pandora [Free].mp3"
+  },
+  {
+    "Titel": "Fareoh - Run Away.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Fareoh - Run Away.mp3"
+  },
+  {
+    "Titel": "Fedde Le Grand & Nicky Romero ft. Matthew Koma - Sparks (Vicetone Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Fedde Le Grand & Nicky Romero ft. Matthew Koma - Sparks (Vicetone Remix).mp3"
+  },
+  {
+    "Titel": "Foxes - Echo (FIXYN Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Foxes - Echo (FIXYN Remix).mp3"
+  },
+  {
+    "Titel": "Foxes - Youth (Adventure Club Dubstep Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Foxes - Youth (Adventure Club Dubstep Remix).mp3"
+  },
+  {
+    "Titel": "FUKKK OFFF - Remix is King.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\FUKKK OFFF - Remix is King.mp3"
+  },
+  {
+    "Titel": "Graffiti 6 - Annie You Save Me (Reset! Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Graffiti 6 - Annie You Save Me (Reset! Remix).mp3"
+  },
+  {
+    "Titel": "Gramatik - So Much For Love.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Gramatik - So Much For Love.mp3"
+  },
+  {
+    "Titel": "Grouplove - Tongue Tied (Gigamesh Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Grouplove - Tongue Tied (Gigamesh Remix).mp3"
+  },
+  {
+    "Titel": "Gwen Stefani - What You Waiting For (Lets Be Friends Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Gwen Stefani - What You Waiting For (Lets Be Friends Remix).mp3"
+  },
+  {
+    "Titel": "Hellberg, Teqq & Taylr Renee - Air.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Hellberg, Teqq & Taylr Renee - Air.mp3"
+  },
+  {
+    "Titel": "Henrix & Jakob Liedholm Ft. Zashanell - Close Your Eyes.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Henrix & Jakob Liedholm Ft. Zashanell - Close Your Eyes.mp3"
+  },
+  {
+    "Titel": "Hook N Sling & Nervo - Reason (Vicetone Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Hook N Sling & Nervo - Reason (Vicetone Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Imagine Dragons - Demons (Dzeko & Torres Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Imagine Dragons - Demons (Dzeko & Torres Remix).mp3"
+  },
+  {
+    "Titel": "Imagine Dragons - Radioactive (Synchronice Remix) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Imagine Dragons - Radioactive (Synchronice Remix) [Exclusive].mp3"
+  },
+  {
+    "Titel": "J.A.C.K - Living I.P.O.D [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\J.A.C.K - Living I.P.O.D [Free].mp3"
+  },
+  {
+    "Titel": "James Egbert - Exit Wounds Feat. Nina Sung (Cappa Regime Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\James Egbert - Exit Wounds Feat. Nina Sung (Cappa Regime Remix).mp3"
+  },
+  {
+    "Titel": "Janski Beeeats - Grandavia.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Janski Beeeats - Grandavia.mp3"
+  },
+  {
+    "Titel": "Jaymes Young - Dark Star (Milkman Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Jaymes Young - Dark Star (Milkman Remix).mp3"
+  },
+  {
+    "Titel": "JJ - Still.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\JJ - Still.mp3"
+  },
+  {
+    "Titel": "John Newman - Losing Sleep (Kat Krazy Remix) [Exclusive Premiere].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\John Newman - Losing Sleep (Kat Krazy Remix) [Exclusive Premiere].mp3"
+  },
+  {
+    "Titel": "Jonsi - Around Us (The Chainsmokers Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Jonsi - Around Us (The Chainsmokers Remix).mp3"
+  },
+  {
+    "Titel": "Juju - The Moonlight.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Juju - The Moonlight.mp3"
+  },
+  {
+    "Titel": "Jungle Fiction - Transhuman (F.O.O.L. Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Jungle Fiction - Transhuman (F.O.O.L. Remix).mp3"
+  },
+  {
+    "Titel": "Justice vs. Simian - We Are Your Friends (Chrizz Luvly Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Justice vs. Simian - We Are Your Friends (Chrizz Luvly Remix).mp3"
+  },
+  {
+    "Titel": "Karetus ft. Ricco Vitali - Future Is Now [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Karetus ft. Ricco Vitali - Future Is Now [Free].mp3"
+  },
+  {
+    "Titel": "Karluv Klub & Kai Wachi - Twice (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Karluv Klub & Kai Wachi - Twice (Original Mix).mp3"
+  },
+  {
+    "Titel": "Karra - Dream Catcher (Massive Vibes Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Karra - Dream Catcher (Massive Vibes Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Kaskade & Project 46 - Last Chance (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kaskade & Project 46 - Last Chance (Original Mix).mp3"
+  },
+  {
+    "Titel": "Kaskade vs. SparkFreks & Relentless vs. Farleon - Apollo On My Shoulder (Kastra Bootleg).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kaskade vs. SparkFreks & Relentless vs. Farleon - Apollo On My Shoulder (Kastra Bootleg).mp3"
+  },
+  {
+    "Titel": "Kaskade VS. Steve Aoki & Tommy Trash - Be Still Ladi Dadi Be Still Ladi Dadi.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kaskade VS. Steve Aoki & Tommy Trash - Be Still Ladi Dadi Be Still Ladi Dadi.mp3"
+  },
+  {
+    "Titel": "Kat Krazy ft. Elkka - Siren.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kat Krazy ft. Elkka - Siren.mp3"
+  },
+  {
+    "Titel": "KDREW - Bullseye.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\KDREW - Bullseye.mp3"
+  },
+  {
+    "Titel": "Kerry Wheeler Feat. Ashton Palmer - Paint My Heart.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kerry Wheeler Feat. Ashton Palmer - Paint My Heart.mp3"
+  },
+  {
+    "Titel": "Kerry Wheeler ft. Ashton Palmer - Odyssey.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kerry Wheeler ft. Ashton Palmer - Odyssey.mp3"
+  },
+  {
+    "Titel": "Kevin Drew ft. Taryn Manning - Summer Ashes (Culture Code Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kevin Drew ft. Taryn Manning - Summer Ashes (Culture Code Remix).mp3"
+  },
+  {
+    "Titel": "Kill Paris - I Do Love You [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill Paris - I Do Love You [Free].mp3"
+  },
+  {
+    "Titel": "Kill Paris - Keep Your Secrets in Midnight City [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill Paris - Keep Your Secrets in Midnight City [Free].mp3"
+  },
+  {
+    "Titel": "Kill Paris - Shades of Funk [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill Paris - Shades of Funk [Free].mp3"
+  },
+  {
+    "Titel": "Kill The Noise & Brillz feat. Minxx - Saturn (Kill Paris Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kill The Noise & Brillz feat. Minxx - Saturn (Kill Paris Remix).mp3"
+  },
+  {
+    "Titel": "Kodaline - Love Like This (Fix8 Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Kodaline - Love Like This (Fix8 Remix).mp3"
+  },
+  {
+    "Titel": "Krewella - Alive (Cash Cash x Kalkutta Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Alive (Cash Cash x Kalkutta Remix).mp3"
+  },
+  {
+    "Titel": "Krewella - Come And Get It (Razihel Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Come And Get It (Razihel Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Krewella - Enjoy The Ride (Vicetone Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Enjoy The Ride (Vicetone Remix).mp3"
+  },
+  {
+    "Titel": "Krewella - Enjoy The Ride [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Enjoy The Ride [Exclusive].mp3"
+  },
+  {
+    "Titel": "Krewella - Human.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Human.mp3"
+  },
+  {
+    "Titel": "Krewella - Live For The Night (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - Live For The Night (Original Mix).mp3"
+  },
+  {
+    "Titel": "Krewella - We Go Down [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Krewella - We Go Down [Exclusive].mp3"
+  },
+  {
+    "Titel": "Laidback Luke & Project 46 ft. Collin McLoughlin - Collide [Radio Edit].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Laidback Luke & Project 46 ft. Collin McLoughlin - Collide [Radio Edit].mp3"
+  },
+  {
+    "Titel": "Late Night Alumni - Shine (Fareoh's One Hitter Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Late Night Alumni - Shine (Fareoh's One Hitter Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Lazy Rich & Special Features - Beginning Of The World [Radio Edit].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lazy Rich & Special Features - Beginning Of The World [Radio Edit].mp3"
+  },
+  {
+    "Titel": "Lemaitre - Appreciate (Uppermost Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Appreciate (Uppermost Remix).mp3"
+  },
+  {
+    "Titel": "Lemaitre - Coffee Table [Full].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Coffee Table [Full].mp3"
+  },
+  {
+    "Titel": "Lemaitre - Continuum.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Continuum.mp3"
+  },
+  {
+    "Titel": "Lemaitre - Excuse Me.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Excuse Me.mp3"
+  },
+  {
+    "Titel": "Lemaitre - Fiction [Relativity 3].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Fiction [Relativity 3].mp3"
+  },
+  {
+    "Titel": "Lemaitre - Keep Close.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Keep Close.mp3"
+  },
+  {
+    "Titel": "Lemaitre - Sceptics (Club Mix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Sceptics (Club Mix) [Free].mp3"
+  },
+  {
+    "Titel": "Lemaitre - Splitting Colors.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Splitting Colors.mp3"
+  },
+  {
+    "Titel": "Lemaitre - The End.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - The End.mp3"
+  },
+  {
+    "Titel": "Lemaitre - Time To Realize.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lemaitre - Time To Realize.mp3"
+  },
+  {
+    "Titel": "Lets Be Friends - Manslaughter (VIP Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Lets Be Friends - Manslaughter (VIP Mix).mp3"
+  },
+  {
+    "Titel": "London Grammar - Hey Now (Arty Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\London Grammar - Hey Now (Arty Remix).mp3"
+  },
+  {
+    "Titel": "Loreen - Euphoria (Tiger & Wolf Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Loreen - Euphoria (Tiger & Wolf Remix).mp3"
+  },
+  {
+    "Titel": "LTR - Idealism.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\LTR - Idealism.mp3"
+  },
+  {
+    "Titel": "Mako - Beam (Mako Orchestral Remix) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mako - Beam (Mako Orchestral Remix) [Exclusive].mp3"
+  },
+  {
+    "Titel": "Mako - Beam (Original) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mako - Beam (Original) [Free].mp3"
+  },
+  {
+    "Titel": "Mako - Our Story [Free] (Exclusive Premiere).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mako - Our Story [Free] (Exclusive Premiere).mp3"
+  },
+  {
+    "Titel": "Manufactured Superstars ft. Danni Rouge - Like Satellites [Radio Edit].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Manufactured Superstars ft. Danni Rouge - Like Satellites [Radio Edit].mp3"
+  },
+  {
+    "Titel": "Manufactured Superstars ft. Jarvis Church - Stay [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Manufactured Superstars ft. Jarvis Church - Stay [Exclusive].mp3"
+  },
+  {
+    "Titel": "Martin Solveig & The Cataracs - Hey Now (feat. Kyle) (Pierce Fulton Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Martin Solveig & The Cataracs - Hey Now (feat. Kyle) (Pierce Fulton Remix).mp3"
+  },
+  {
+    "Titel": "Mat Zo & Porter Robinson - Easy (Lemaitre Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mat Zo & Porter Robinson - Easy (Lemaitre Remix).mp3"
+  },
+  {
+    "Titel": "Matisyahu - Live Like A Warrior (Richello Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Matisyahu - Live Like A Warrior (Richello Remix).mp3"
+  },
+  {
+    "Titel": "Matthew Koma - One Night (Vicetone Remix) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Matthew Koma - One Night (Vicetone Remix) [Exclusive].mp3"
+  },
+  {
+    "Titel": "Matthew Koma - Parachute (Kat Krazy Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Matthew Koma - Parachute (Kat Krazy Remix).mp3"
+  },
+  {
+    "Titel": "Maurizio Inzaghi & Fine Touch ft. Jonny Rose - We Gotta Rage (Nick Bounce Remode).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Maurizio Inzaghi & Fine Touch ft. Jonny Rose - We Gotta Rage (Nick Bounce Remode).mp3"
+  },
+  {
+    "Titel": "Mike Candys - One Night In Ibiza (Chrizz Luvly Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mike Candys - One Night In Ibiza (Chrizz Luvly Remix).mp3"
+  },
+  {
+    "Titel": "Mikky Ekko - Kids (The Chainsmokers Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mikky Ekko - Kids (The Chainsmokers Remix).mp3"
+  },
+  {
+    "Titel": "Milkman - Revelry.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Milkman - Revelry.mp3"
+  },
+  {
+    "Titel": "Misterwives - Reflections (Milkman Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Misterwives - Reflections (Milkman Remix).mp3"
+  },
+  {
+    "Titel": "Moiez ft. Anoop Desai - City On A Hill.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Moiez ft. Anoop Desai - City On A Hill.mp3"
+  },
+  {
+    "Titel": "Moiez vs Daphne & Project 46 - Crime (3LAU Mix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Moiez vs Daphne & Project 46 - Crime (3LAU Mix) [Free].mp3"
+  },
+  {
+    "Titel": "Monsta - Where Did I Go (Dillon Francis and Kill Paris Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Monsta - Where Did I Go (Dillon Francis and Kill Paris Remix).mp3"
+  },
+  {
+    "Titel": "Morgan Page vs. Nima Nesta - Derby Fight (Morgan Page Bootleg Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Morgan Page vs. Nima Nesta - Derby Fight (Morgan Page Bootleg Mix).mp3"
+  },
+  {
+    "Titel": "Mutrix ft. Charity Vance - Come Alive (The Two Friends Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Mutrix ft. Charity Vance - Come Alive (The Two Friends Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Nervo & Hook N' Sling - Reason (Cash Cash & The Jane Doze Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nervo & Hook N' Sling - Reason (Cash Cash & The Jane Doze Remix).mp3"
+  },
+  {
+    "Titel": "Nervo - Hold On (Vicetone Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nervo - Hold On (Vicetone Remix).mp3"
+  },
+  {
+    "Titel": "Ness - Mexican (Janski Beeeats Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Ness - Mexican (Janski Beeeats Remix).mp3"
+  },
+  {
+    "Titel": "Neutralize ft. Emily Underhill - Shining Through The Light (Culture Code Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Neutralize ft. Emily Underhill - Shining Through The Light (Culture Code Remix).mp3"
+  },
+  {
+    "Titel": "Nicky Romero & Krewella - Legacy (Save My Life) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nicky Romero & Krewella - Legacy (Save My Life) [Exclusive].mp3"
+  },
+  {
+    "Titel": "Nikki Williams - Glowing (Cazzette Remix) [Radio Edit].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Nikki Williams - Glowing (Cazzette Remix) [Radio Edit].mp3"
+  },
+  {
+    "Titel": "Oliver - Dirty Talk.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Oliver - Dirty Talk.mp3"
+  },
+  {
+    "Titel": "Olly Murs - Army of Two (Kat Krazy Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Olly Murs - Army of Two (Kat Krazy Remix).mp3"
+  },
+  {
+    "Titel": "Osen & Baha - The Warrior (Lush & Simon Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Osen & Baha - The Warrior (Lush & Simon Remix).mp3"
+  },
+  {
+    "Titel": "OVERWERK - 12_30 [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\OVERWERK - 12_30 [Free].mp3"
+  },
+  {
+    "Titel": "Overwerk - Contact.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Overwerk - Contact.mp3"
+  },
+  {
+    "Titel": "OVERWERK - Daybreak (GoPro HERO3 Edit) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\OVERWERK - Daybreak (GoPro HERO3 Edit) [Free].mp3"
+  },
+  {
+    "Titel": "OVERWERK - Night Shift [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\OVERWERK - Night Shift [Free].mp3"
+  },
+  {
+    "Titel": "Paramore - Still Into You (Synchronice Remix) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paramore - Still Into You (Synchronice Remix) [Exclusive].mp3"
+  },
+  {
+    "Titel": "Paris Blohm & Mako ft. Angel Taylor - You Were Here [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paris Blohm & Mako ft. Angel Taylor - You Were Here [Free].mp3"
+  },
+  {
+    "Titel": "Paris Blohm ft. Angel Taylor - Presence [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paris Blohm ft. Angel Taylor - Presence [Free].mp3"
+  },
+  {
+    "Titel": "Paris Blohm ft. Matt Morris - Miracle [Free] (Proximity Release).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Paris Blohm ft. Matt Morris - Miracle [Free] (Proximity Release).mp3"
+  },
+  {
+    "Titel": "Pegboard Nerds - Bassline Kickin' (Dzeko & Torres Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pegboard Nerds - Bassline Kickin' (Dzeko & Torres Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Pegboard Nerds x Misterwives - Coffins [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pegboard Nerds x Misterwives - Coffins [Free].mp3"
+  },
+  {
+    "Titel": "Pendulum - Fasten Your Seatbelt (PrototypeRaptor Bootleg Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pendulum - Fasten Your Seatbelt (PrototypeRaptor Bootleg Remix).mp3"
+  },
+  {
+    "Titel": "Pierce Fulton ft. Polina - Where We Were (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Pierce Fulton ft. Polina - Where We Were (Original Mix).mp3"
+  },
+  {
+    "Titel": "Project 46 ft. Seri - Motionless (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Project 46 ft. Seri - Motionless (Original Mix).mp3"
+  },
+  {
+    "Titel": "Proximity - Adrenaline Mixtape [Free Download].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Adrenaline Mixtape [Free Download].mp3"
+  },
+  {
+    "Titel": "Proximity - Guy gets Pandoric Tattoo!.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Guy gets Pandoric Tattoo!.mp3"
+  },
+  {
+    "Titel": "Proximity - Holiday Mixtape [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Holiday Mixtape [Free].mp3"
+  },
+  {
+    "Titel": "Proximity - Justice Live @ Ultra Music Festival, Miami 2012.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Justice Live @ Ultra Music Festival, Miami 2012.mp3"
+  },
+  {
+    "Titel": "Proximity - Pandoric Music Pack #2.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Proximity - Pandoric Music Pack #2.mp3"
+  },
+  {
+    "Titel": "Purity Ring - Obedear (Chrome Wolves Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Purity Ring - Obedear (Chrome Wolves Remix).mp3"
+  },
+  {
+    "Titel": "Reeves Raymond ft. Alex Staltari & Diana - Brighter Lights (Culture Code Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Reeves Raymond ft. Alex Staltari & Diana - Brighter Lights (Culture Code Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Rudimental - Feel The Love (Kill Paris Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Rudimental - Feel The Love (Kill Paris Remix).mp3"
+  },
+  {
+    "Titel": "RUFUS - Paris Collides.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\RUFUS - Paris Collides.mp3"
+  },
+  {
+    "Titel": "Sander Van Doorn & Julian Jordan - Kangaroo (Vitez & Kiso Vocal Edit).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Sander Van Doorn & Julian Jordan - Kangaroo (Vitez & Kiso Vocal Edit).mp3"
+  },
+  {
+    "Titel": "Scooter & Lavelle Ft. Sue Cho - Beats Inside My Head (Revolvr VIP Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Scooter & Lavelle Ft. Sue Cho - Beats Inside My Head (Revolvr VIP Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Seven Lions - Days To Come (Affinity Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Seven Lions - Days To Come (Affinity Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Seven Lions ft. Minnesota & Mimi Page - Fevers [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Seven Lions ft. Minnesota & Mimi Page - Fevers [Free].mp3"
+  },
+  {
+    "Titel": "Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) [Exclusive].mp3"
+  },
+  {
+    "Titel": "Singularity feat. Jenn Lucas - Rift (Electromagnetic Blaze Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Singularity feat. Jenn Lucas - Rift (Electromagnetic Blaze Remix).mp3"
+  },
+  {
+    "Titel": "Special Features - You And Me [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Special Features - You And Me [Free].mp3"
+  },
+  {
+    "Titel": "Specimen A - London.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Specimen A - London.mp3"
+  },
+  {
+    "Titel": "Static Revenger feat. Dev - Turn The World On (TheFatRat Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Static Revenger feat. Dev - Turn The World On (TheFatRat Remix).mp3"
+  },
+  {
+    "Titel": "Stellamara - Prituri Se Planinata (NiT GriT Remix) [Step Up 4].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Stellamara - Prituri Se Planinata (NiT GriT Remix) [Step Up 4].mp3"
+  },
+  {
+    "Titel": "Supermode Vs. Adrian Lux, Axwell & Henrik B - Tell Me Crime (Adrien Mezsi Bootleg).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Supermode Vs. Adrian Lux, Axwell & Henrik B - Tell Me Crime (Adrien Mezsi Bootleg).mp3"
+  },
+  {
+    "Titel": "Swedish House Mafia x Knife Party - Who We Antidote (Inducers Mashup).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Swedish House Mafia x Knife Party - Who We Antidote (Inducers Mashup).mp3"
+  },
+  {
+    "Titel": "Syn Cole - Miami 82 (Avicii Edit).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Syn Cole - Miami 82 (Avicii Edit).mp3"
+  },
+  {
+    "Titel": "The Aston Shuffle - Can't Stop Now (Special Features Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Aston Shuffle - Can't Stop Now (Special Features Remix).mp3"
+  },
+  {
+    "Titel": "The Aston Shuffle vs. Tommy Trash - Sunrise (Won't Get Lost) (Tommy Trash Version).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Aston Shuffle vs. Tommy Trash - Sunrise (Won't Get Lost) (Tommy Trash Version).mp3"
+  },
+  {
+    "Titel": "The Chainsmokers vs. Tove Lo - Habits [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Chainsmokers vs. Tove Lo - Habits [Free].mp3"
+  },
+  {
+    "Titel": "The Crystal Method - Over It [Free] (Preview).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Crystal Method - Over It [Free] (Preview).mp3"
+  },
+  {
+    "Titel": "The Good Natured - 5-HT (Kat Krazy Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Good Natured - 5-HT (Kat Krazy Remix).mp3"
+  },
+  {
+    "Titel": "The Neighbourhood - Sweater Weather  (Shaun Frank Club Cover).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Neighbourhood - Sweater Weather  (Shaun Frank Club Cover).mp3"
+  },
+  {
+    "Titel": "The S.O.S Band - Take Your Time (Do It Right) (Solidisco Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The S.O.S Band - Take Your Time (Do It Right) (Solidisco Remix) [Free].mp3"
+  },
+  {
+    "Titel": "The Two Friends ft. Jeff Sontag & I Am Lightyear - Brighter [Free] (Exclusive).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Two Friends ft. Jeff Sontag & I Am Lightyear - Brighter [Free] (Exclusive).mp3"
+  },
+  {
+    "Titel": "The Two Friends ft. Jeff Sontag - Sedated (Barely Alive Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\The Two Friends ft. Jeff Sontag - Sedated (Barely Alive Remix).mp3"
+  },
+  {
+    "Titel": "Throttle - Inspire (Launchpad Mashup) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Throttle - Inspire (Launchpad Mashup) [Free].mp3"
+  },
+  {
+    "Titel": "Till Death - The Dark Woods [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Till Death - The Dark Woods [Free].mp3"
+  },
+  {
+    "Titel": "Tisoki & Skoshki - Only You [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tisoki & Skoshki - Only You [Free].mp3"
+  },
+  {
+    "Titel": "Tom Swoon & Paris Blohm - Synchronize ft. Hadouken! [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tom Swoon & Paris Blohm - Synchronize ft. Hadouken! [Exclusive].mp3"
+  },
+  {
+    "Titel": "Tom Swoon, Lush & Simon - Ahead Of Us [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tom Swoon, Lush & Simon - Ahead Of Us [Exclusive].mp3"
+  },
+  {
+    "Titel": "Tommy Trash vs Pnau vs MGMT - Unite Kids (Tommy Trash Private Bootleg).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tommy Trash vs Pnau vs MGMT - Unite Kids (Tommy Trash Private Bootleg).mp3"
+  },
+  {
+    "Titel": "Tritonal & Paris Blohm ft. Sterling Fox - Colors.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tritonal & Paris Blohm ft. Sterling Fox - Colors.mp3"
+  },
+  {
+    "Titel": "Tritonal - Still With Me Feat. Cristina Soto (Seven Lions Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tritonal - Still With Me Feat. Cristina Soto (Seven Lions Remix).mp3"
+  },
+  {
+    "Titel": "Tritonal feat. Phoebe Ryan - Now Or Never (Estiva & Juventa Remix) [Exclusive].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Tritonal feat. Phoebe Ryan - Now Or Never (Estiva & Juventa Remix) [Exclusive].mp3"
+  },
+  {
+    "Titel": "Two Door Cinema Club - What You Know (Religion Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Two Door Cinema Club - What You Know (Religion Remix).mp3"
+  },
+  {
+    "Titel": "Uppermost - Born Limitless.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Uppermost - Born Limitless.mp3"
+  },
+  {
+    "Titel": "Uppermost - Crossfader [FREE].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Uppermost - Crossfader [FREE].mp3"
+  },
+  {
+    "Titel": "Uppermost - Futur.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Uppermost - Futur.mp3"
+  },
+  {
+    "Titel": "Van She - Idea of Happiness (Robotaki Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Van She - Idea of Happiness (Robotaki Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Velvetine - The Great Divide (Seven Lions Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Velvetine - The Great Divide (Seven Lions Remix).mp3"
+  },
+  {
+    "Titel": "Vicetone - End of New Years Mix 2013 [EDM].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone - End of New Years Mix 2013 [EDM].mp3"
+  },
+  {
+    "Titel": "Vicetone - Heartbeat (Cash Cash Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone - Heartbeat (Cash Cash Remix).mp3"
+  },
+  {
+    "Titel": "Vicetone - Hope (Instrumental) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone - Hope (Instrumental) [Free].mp3"
+  },
+  {
+    "Titel": "Vicetone ft. Chloe Angelides - White Lies.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone ft. Chloe Angelides - White Lies.mp3"
+  },
+  {
+    "Titel": "Vicetone ft. Daniel Gidlund - Chasing Time.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone ft. Daniel Gidlund - Chasing Time.mp3"
+  },
+  {
+    "Titel": "Vicetone Ft. Jonny Rose - Stars (Original Mix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone Ft. Jonny Rose - Stars (Original Mix).mp3"
+  },
+  {
+    "Titel": "Vicetone vs. Popeska - The New Kings Ft. Luciana [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Vicetone vs. Popeska - The New Kings Ft. Luciana [Free].mp3"
+  },
+  {
+    "Titel": "Virtual Riot - Idols (EDM Mashup).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Virtual Riot - Idols (EDM Mashup).mp3"
+  },
+  {
+    "Titel": "Virtual Riot feat. Lisa Rowe - In Your Hands.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Virtual Riot feat. Lisa Rowe - In Your Hands.mp3"
+  },
+  {
+    "Titel": "Visitor - Coming Home (Viceroy Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Visitor - Coming Home (Viceroy Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Will Sparks - Catch [Radio Edit].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Will Sparks - Catch [Radio Edit].mp3"
+  },
+  {
+    "Titel": "Wolfgang Gartner - Anthology (Madeon Mashup).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - Anthology (Madeon Mashup).mp3"
+  },
+  {
+    "Titel": "Wolfgang Gartner - Flexx (Exige Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - Flexx (Exige Remix).mp3"
+  },
+  {
+    "Titel": "Wolfgang Gartner - Shrunken Heads.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - Shrunken Heads.mp3"
+  },
+  {
+    "Titel": "Wolfgang Gartner - There And Back (Dead C_T Bounce Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner - There And Back (Dead C_T Bounce Remix).mp3"
+  },
+  {
+    "Titel": "Wolfgang Gartner ft. Medina - Overdose.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Wolfgang Gartner ft. Medina - Overdose.mp3"
+  },
+  {
+    "Titel": "You Killing Me - Can't Stop (F.O.O.L Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\You Killing Me - Can't Stop (F.O.O.L Remix).mp3"
+  },
+  {
+    "Titel": "Youngblood Hawke - We Come Running (Milkman Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Youngblood Hawke - We Come Running (Milkman Remix) [Free].mp3"
+  },
+  {
+    "Titel": "Youngblood Hawke - We Come Running (Vicetone Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Youngblood Hawke - We Come Running (Vicetone Remix).mp3"
+  },
+  {
+    "Titel": "Zara Larsson - Uncover (Jarleen & Sebros Bootleg).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zara Larsson - Uncover (Jarleen & Sebros Bootleg).mp3"
+  },
+  {
+    "Titel": "Zedd - Spectrum (Muscle Hawk Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zedd - Spectrum (Muscle Hawk Remix).mp3"
+  },
+  {
+    "Titel": "Zedd - Spectrum (The Lonely Astronaut Remix).mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zedd - Spectrum (The Lonely Astronaut Remix).mp3"
+  },
+  {
+    "Titel": "Zedd ft. Foxes - Clarity (Vicetone Remix) [Free].mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\Zedd ft. Foxes - Clarity (Vicetone Remix) [Free].mp3"
+  },
+  {
+    "Titel": "ZHU - Faded.mp3",
+    "Filename": "C:\\Users\\Jeroen\\Music\\Downloaded by MediaHuman\\ZHU - Faded.mp3"
+  }
 ]

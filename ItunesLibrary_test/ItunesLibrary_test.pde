@@ -53,7 +53,7 @@ void draw(){
   }
     lb.getItem(iSelectedPos).setColorBackground(0xffff9900); 
     try{
-    image(photoPlayingSong, 100,400,100,100);
+    image(photoPlayingSong, 100,400);
     }
     catch(Exception e)
     {
@@ -171,7 +171,7 @@ void keyPressed(){
   {
     iSelectedToPlay = iSelectedPos;
     loadNewMusicFile("" + MusicList.get(iSelectedToPlay));
-    metaDataPlayingSong = ap.getMetaData();
+    p
     ap.play();
     updateImageSong();
   }
@@ -223,16 +223,22 @@ void updateImageSong()
   }
   println("songName: "+songName);
   // ophalen json van itunes api
-  String urlToAPI = "https://itunes.apple.com/search?term=";
+  String urlToAPI = "https://ws.spotify.com/search/1/track.json?q=";
   urlToAPI += songName;
   JSONObject json = loadJSONObject(urlToAPI);
   println("urlToAPI: "+urlToAPI);
-  JSONArray array = json.getJSONArray("results");
+  JSONArray array = json.getJSONArray("tracks");
   JSONObject first = array.getJSONObject(0);
   println("json: "+json);
-  String url = first.getString("artworkUrl100");
+  String url = first.getString("href");
   println("url: "+url);
-  photoPlayingSong = loadImage(url);
+
+  urlToAPI = "https://embed.spotify.com/oembed/?url=";
+  urlToAPI += url;
+  JSONObject json2 = loadJSONObject(urlToAPI);
+  String url2 = json2.getString("thumbnail_url");
+
+  photoPlayingSong = loadImage(url2,"jpg");
 
   }
   catch (Exception e){

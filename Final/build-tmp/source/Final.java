@@ -51,15 +51,22 @@ ListBox lb;
 
 Minim minim;
 AudioPlayer ap;
+AudioMetaData metaDataPlayingSong;
+
+PImage photoPlayingSong;
 
 LeapMotionP5 leap;
 
 boolean start;
 boolean isPaused;
 
-public void setup(){
-	size(1024,720);
+int screenWidth;
+int screenHeight;
 
+public void setup(){
+	size(displayWidth, displayHeight);
+  screenWidth = displayWidth;
+  screenHeight = displayHeight;
 	setInitValues();
 	loadJSONFile();
 }
@@ -81,6 +88,11 @@ public void draw(){
 
 		evaluateLeapMovement();
 	}
+  try{
+    image(photoPlayingSong, 40 ,height - 150,100,100);
+    }
+  catch(Exception e)
+  {  }
 }
 
 // --- init-functions ---
@@ -108,9 +120,12 @@ public void setupAfterFolderSelection(){
 
 public void initListBox(){
 	cp5 = new ControlP5(this);
-  	lb = cp5.addListBox("myList", 40, 100, 900, 500);
+  	lb = cp5.addListBox("myList", 40, 100, width - 100, height - 200);
   	lb.setItemHeight(95);
   	lb.setId(1);
+}
+public void initImageSong(){
+
 }
 
 public void initLoadMinim(){
@@ -118,7 +133,7 @@ public void initLoadMinim(){
 
 	minim = new Minim(this);  	
   	ap = minim.loadFile("" + MusicList.get(iSelectedPos));
-  	ap.play();
+  	//ap.play();
 }
 
 public void initDraw(){  
@@ -191,6 +206,8 @@ public void loadNewMusicFile(String filename){
   ap.pause();
   ap = minim.loadFile(filename);
   ap.play();
+  metaDataPlayingSong = ap.getMetaData();
+  updateImageSong();
 }
 
 public void playNext(){
@@ -263,6 +280,39 @@ public void drawPlaying(){
 public void drawPaused(){
   rect(500, 650, 10, 50);
   rect(515, 650, 10, 50);
+}
+// --- api access functies voor image song ---
+public void updateImageSong()
+{
+  
+      try{
+  String songNameB = metaDataPlayingSong.title();
+  String[] songNamePieces = split(songNameB, " ");
+  String songName = "";
+  for(String s: songNamePieces)
+  {
+    songName += s;
+    songName += '+';
+  }
+  println("songName: "+songName);
+  // ophalen json van itunes api
+  String urlToAPI = "https://itunes.apple.com/search?term=";
+  urlToAPI += songName;
+  JSONObject json = loadJSONObject(urlToAPI);
+  println("urlToAPI: "+urlToAPI);
+  JSONArray array = json.getJSONArray("results");
+  JSONObject first = array.getJSONObject(0);
+  println("json: "+json);
+  String url = first.getString("artworkUrl100");
+  println("url: "+url);
+  photoPlayingSong = loadImage(url);
+
+  }
+  catch (Exception e){
+    println("e: "+e);
+    photoPlayingSong = loadImage("data\\NoImage.jpg");
+  }
+
 }
   static public void main(String[] passedArgs) {
     String[] appletArgs = new String[] { "Final" };

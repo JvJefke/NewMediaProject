@@ -171,7 +171,7 @@ void keyPressed(){
   {
     iSelectedToPlay = iSelectedPos;
     loadNewMusicFile("" + MusicList.get(iSelectedToPlay));
-    metaDataPlayingSong = ap.getMetaData();
+    p
     ap.play();
     updateImageSong();
   }

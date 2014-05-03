@@ -62,7 +62,10 @@ void draw(){
   try{
     image(photoPlayingSong, 40 ,height - 150,100,100);
     //text("text",X,Y);
-    text(metaDataPlayingSong.title, 170, height - 150)
+    fill(128,255,128);
+    textSize(30);
+    text(metaDataPlayingSong.title(), 170, height - 130);
+    text(metaDataPlayingSong.author(),170, height - 100);
     }
   catch(Exception e)
   {  }
@@ -113,6 +116,47 @@ void initDraw(){
   lb.addItems(MusicList);
   lb.isScrollable();
 }
+void checkJSONValues(){
+  // iedere jsonvalue in de array overlopen
+  // templijst aanmaken zodat de originele lijst niet aangetast wordt voordat alle acties gepasseerd zijn.
+  JSONArray jsontemp = new JSONArray();
+  
+  for(int i = 0; i < json.size(); i++)
+  {
+    
+    
+    JSONObject object = json.getJSONObject(i);
+    String filename = object.getString("Filename");
+    int ibuffer = 0;
+    // controleren of de file nog bestaat
+    println("filename: "+ filename);
+    if(fileExists(filename))
+    {
+      jsontemp.append(object);
+    }
+    else {
+      println("ERROR: bestand niet gevonden");
+    }
+
+  }  
+  // indien de lijst een nul-waarde bevat een nieuwe folder laten kiezen
+  json = jsontemp;
+  if(json.size() == 0)
+  {
+    selectFolder("Select a musicfolder to add music", "folderSelected");
+  }
+  else{
+    // herschrijven json file.
+    saveJSONArray(json, "data/mlist.json");
+  }
+}
+boolean fileExists(String filename)
+{
+  File file = new File(filename);
+  if(!file.exists())
+    return false;
+  return true;
+}
 
 void setInitValues(){
   iSelectedPos = 0;
@@ -125,12 +169,24 @@ void setInitValues(){
 
 void loadJSONFile(){
   try{
-      JSONArray jsonLoaded = loadJSONArray("data\\mlist.json");
-      json = jsonLoaded;    
+      JSONArray jsonLoaded = loadJSONArray("data/mlist.json");
+      
+      json = jsonLoaded;
+      
+      checkJSONValues();
+      println("jsonvalues zijn gecheckt");
       println(jsonLoaded);
       setupAfterFolderSelection();
+      println("setup is gelukt.");
     }catch(Exception ex){
-      println("Failed to load json file");
+      println("Failed to load json file" + ex);
+      String fileName = dataPath("data/mlist.json");
+      File f = new File(fileName);
+      if (f.exists()) {
+      println("file deleted");
+      f.delete();
+      }
+      else{println("file niet gevonden.");}
       selectFolder("Select a musicfolder to add music", "folderSelected");
     }
 }
@@ -153,6 +209,7 @@ void LoadMp3(){
   }
   
   //println(json);
+  
   saveJSONArray(json, "data/mlist.json");     
 }
 
@@ -258,7 +315,7 @@ void drawPaused(){
 void updateImageSong()
 {
   
-      try{
+        try{
   String songNameB = metaDataPlayingSong.title();
   String[] songNamePieces = split(songNameB, " ");
   String songName = "";
@@ -269,16 +326,22 @@ void updateImageSong()
   }
   println("songName: "+songName);
   // ophalen json van itunes api
-  String urlToAPI = "https://itunes.apple.com/search?term=";
+  String urlToAPI = "https://ws.spotify.com/search/1/track.json?q=";
   urlToAPI += songName;
   JSONObject json = loadJSONObject(urlToAPI);
   println("urlToAPI: "+urlToAPI);
-  JSONArray array = json.getJSONArray("results");
+  JSONArray array = json.getJSONArray("tracks");
   JSONObject first = array.getJSONObject(0);
   println("json: "+json);
-  String url = first.getString("artworkUrl100");
+  String url = first.getString("href");
   println("url: "+url);
-  photoPlayingSong = loadImage(url);
+
+  urlToAPI = "https://embed.spotify.com/oembed/?url=";
+  urlToAPI += url;
+  JSONObject json2 = loadJSONObject(urlToAPI);
+  String url2 = json2.getString("thumbnail_url");
+
+  photoPlayingSong = loadImage(url2,"jpg");
 
   }
   catch (Exception e){
